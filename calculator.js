@@ -1,27 +1,20 @@
-function add(){
-    num1=parseInt(myform.num1.value);
-    num2=parseInt(myform.num2.value);
-    result=num1+num2;
-    myform.result.value=result;
-}
+function multiply(num1,num2){
+    let total= num1 * num2;
+    console.log(total);
+}multiply(12,2);
 
-function subtract(){
-    num1=parseInt(myform.num1.value);
-    num2=parseInt(myform.num2.value);
-    result=num1-num2;
-    myform.result.value=result;
-}
+function divide(num1,num2){
+    let total= num1 / num2;
+    console.log(total);
+}divide(24,2);
 
-function multiply(){
-    num1=parseInt(myform.num1.value);
-    num2=parseInt(myform.num2.value);
-    result=num1*num2;
-    myform.result.value=result;
-}
+function add(num1,num2){
+    let total= num1 + num2;
+    console.log(total);
+}add(520,452);
 
-function divide(){
-    num1=parseInt(myform.num1.value);
-    num2=parseInt(myform.num2.value);
-    result=num1/num2;
-    myform.result.value=result;
-}
+function subtract(num1,num2){
+    let total= num1 - num2;
+    console.log(total);
+}subtract(456,82);
+

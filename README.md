@@ -8,7 +8,7 @@ HTML and JavaScript
 
 ## Credits
 
-- Rorisang Kgwete
-- Santisha Reddy
+Rorisang Kgwete
+Santisha Reddy
 
 ## License
