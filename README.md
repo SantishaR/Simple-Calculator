@@ -11,4 +11,3 @@ HTML and JavaScript
 - Rorisang Kgwete
 - Santisha Reddy
 
-## License
