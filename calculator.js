@@ -1,7 +1,10 @@
-function multiply(num1,num2){
-    let total= num1 * num2;
-    console.log(total);
-}multiply(12,2);
+function  multiply(x,y){
+    let answer= x * y;
+    console.log(answer);
+
+    } multiply(4,5)
+
+
 
 function divide(num1,num2){
     let total= num1 / num2;
